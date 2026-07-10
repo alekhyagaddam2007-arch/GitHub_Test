@@ -1,0 +1,6 @@
+customtkinter
+deep-translator
+gtts
+playsound==1.2.2
+SpeechRecognition
+pyaudio
